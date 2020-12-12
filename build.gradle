@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'io.peterdobbs'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-base', version: '5.2.0'
+    compile group: 'ca.uhn.hapi.fhir', name: 'hapi-fhir-structures-r4', version: '5.2.0'
+
+    implementation group: 'org.apache.commons', name: 'commons-csv', version: '1.8'
+
+    testImplementation group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.6.0'
+    testRuntimeOnly group: 'org.junit.jupiter', name: 'junit-jupiter-engine'
+}
+
+test {
+    useJUnitPlatform()
+}

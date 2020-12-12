@@ -1,0 +1,24 @@
+Location,Code,Serial Number,Equipment Type,Model,Status,Manufacturer
+Ophthalmology,,,"A/B Scan, Focimeter",CAS-2000BER,Operational,Shinova Systems
+Surgery,1817,FARX O1093,"Analyzers, Laboratory, Blood Gas",5250 RGM,UnderMaintenance,Ohmeda
+Laboratory,4852,803652,"Analyzers, Laboratory, Microbiology, Blood Culture, Mycobacteria",GeneXpert,Operational,Cepheid
+Maternity,507,DK30100147,Anesthesia Units,Siesta i Whispa,Operational,Philips
+Surgery,1836,DK30100146,Anesthesia Units,Siesta i Whispa,Operational,Dameca
+Internal Medicine,,11405,Aspirator,ASKIR 230-RBR,Operational,CA-MI srl
+Emergency,3461,09.2 IF2.474,Aspirators,ML AP-100940-D,Operational,MICHIELS SA BELGIUM
+Surgery,3511,3368PM-01/14,Aspirators,POLIVAC-B4/SLT30 2-EXP,Operational,Alsa
+Surgery,8728,,Aspirators,ML AP-100940-D,UnderMaintenance,MICHEL SA BELGIUM
+Neonatology,1317,5723,"Aspirators, Breast",Mamilat,Operational,Gima
+Ophthalmology,,134886,Auto Refractometer,AR-310A,Operational,Nidek
+Maternity,,,"Bed, Delivery",,Operational,Famed
+Emergency,8224,140636477,"Beds, Hydraulic",K034,Operational,Kenmak
+Physiotherapy,,,Cabinet,,Operational,Olympus
+Emergency,7080,,"Carts, Storage/Transport",,Operational,
+Internal Medicine,2037,,"Carts, Storage/Transport",,Operational,CBM srl
+Sterilization,1376,E-274282,"Sterilzing Units, Steam",SC 500,Operational,Matachana
+Laboratory,,134256,SterliGARD e3,SG504-INT,Operational,The Baker Company
+Dentistry,1754,,"Tables, Examination/Treatment, Adjustable, Gynecologic",,Operational,
+Physiotherapy,1549,,"Tables, Examination/Treatment, Adjustable, Gynecologic",,Operational,
+Pediatrics,2032,,"Wheelchairs, Mechanical",,Operational,Fazzini
+Medical Imaging,,901205,X-ray table,Diagnost,Operational,Philips
+Medical Imaging,,KN5070-1263,,DryView 5850 Laser Imager,PartiallyOperational,Carestream
